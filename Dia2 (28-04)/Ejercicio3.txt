@@ -1,9 +1,0 @@
-Ejercicio 3
-Para calcular el rendimiento del combustible de un vehículo, debemos tener como variables la distancia recorrida de un vehículo y los litros de combustible consumido en esa distancia recorrida, de esta forma dividimos la distancia por los litros consumidos de combustible, teniendo como resultado el rendimiento del combustible.
-Entradas: Cantidad de Km recorridos, Cantidad de Litros de combustible utilizados en dicha distancia recorrida.
-Proceso: Debemos contabilizar los kilómetros recorridos, luego contabilizar los litros de combustible utilizados en esa distancia, calculamos el rendimiento como la división de la distancia recorrida en kilómetros por los litros de combustible consumidos.
-Salida: rendimiento del combustible en base a la distancia en km recorrida.
-Variables:
--	Distancia	: cantidad de Kilómetros recorridos. (Tipo de Dato: int -float).
--	Combustible	: cantidad de Litros de combustible utilizados en esa distancia (Tipo de dato int -float).
--	Rendimiento	: Distancia/Combustible (Dato int-Float).
